@@ -2,14 +2,14 @@
 	  Fixed relative URLs to allow context=root localhost:8080/emp-demo1 -->
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <!DOCTYPE html>
-<html>
+<html lang='en'>
     <head>
         <link rel="stylesheet" href="css/bootstrap.min.css" >   		
         <script src="js/jquery.min.js"></script>
         <script src="js/bootstrap.min.js" ></script>        
 	   
     </head>
-
+<title>  Title </title>
     <body bgcolor="dracula">          
 	    <h2>My Sample Application</h2>
         <div class="container">
