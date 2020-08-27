@@ -9,7 +9,7 @@
         <script src="js/bootstrap.min.js" ></script>        
 	   
     </head>
-<title>  Title </title>
+<title>  Employee List </title>
     <body bgcolor="dracula">          
 	    <h2>My Sample Application</h2>
         <div class="container">
